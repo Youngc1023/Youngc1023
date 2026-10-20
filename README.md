@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+<br/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Crafting+Seamless+Systems+%26+Scripts;Lua+%E2%80%A2+JavaScript+%E2%80%A2+HTML5+%E2%80%A2+CSS3;Interactive+Web+%26+Server-Side+Logic" alt="Typing SVG" />
+</div>
 
-<!--
-**Youngc1023/Youngc1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗂️ ABOUT ARCHITECTURE
+
+> **"작은 디테일 하나까지 끝까지 집요하고 꼼꼼하게 완성합니다."**
+
+```yaml
+미고랭 라면: ACS_PART
+멕시칸 타코: HTML, CSS, JS, LUA
+오전/오후:
+  - Clean Architecture & High Optimization
+  - Modular & Maintainable Code Pattern
+  - Seamless UI/UX Interaction
